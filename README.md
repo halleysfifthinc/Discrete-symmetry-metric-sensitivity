@@ -1,5 +1,8 @@
 # Sensitivity of discrete symmetry metrics: implications for metric choice
 
+[![DOI](https://zenodo.org/badge/402551991.svg)](https://zenodo.org/badge/latestdoi/402551991)
+
+
 This repository contains the source code, Jupyter notebooks, and data used to produce the results for the above titled project.
 
 ## Instructions
